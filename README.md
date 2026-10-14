@@ -187,3 +187,4 @@ The backend mounts `/auth`, `/posts`, `/users`, and `/messages`. It also exposes
 - Back up your database before applying schema or migration changes.
 - No license file was included in the supplied archive; add one if you plan to distribute the project.
 # pulse-social-media-platform
+# pulse-social-media-platform
